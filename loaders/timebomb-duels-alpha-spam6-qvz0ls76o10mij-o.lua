@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/timebomb-duels-alpha-spam6-qvz0ls76o10mij.lua"))()
